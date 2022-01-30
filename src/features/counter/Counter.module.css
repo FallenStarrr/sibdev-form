@@ -1,0 +1,36 @@
+.login__btn {
+  background-color: rgba(81, 108, 182, 0.973);
+  color: white;
+  padding: 10px;
+  width: 150px;
+  margin-top: 15px;
+  border-radius: 10px;
+}
+
+.login__input {
+      width: 200px;
+      border-radius: 5px;
+      padding: 10px;
+      margin-top: 15px;
+      display: block;
+}
+
+.label {
+  color: gray;
+  font-size: 16px;
+  display: block;
+  transform: translateX(-80px);
+}
+
+.eye {
+  position: relative;
+  left: 90px;
+  bottom: 40px;
+  display: block;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;    
+}
